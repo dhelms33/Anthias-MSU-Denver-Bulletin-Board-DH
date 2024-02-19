@@ -6,3 +6,7 @@
 
 ## [1.0.1] - 2024-02-14
 -Modified README.me with more project details and updated release
+
+## [1.0.2] - 2024-02-19
+-Added CONTRIBUTIONS.md with guidelines for contributing to the project
+-Deleted CONTRIBUTIONS without formatting
