@@ -4,5 +4,5 @@
 - Initial release
 -Updated README.md with project details and installation instructions
 
-## [1.1.0] - 2024-02-14
+## [1.0.1] - 2024-02-14
 -Modified README.me with more project details and updated release
