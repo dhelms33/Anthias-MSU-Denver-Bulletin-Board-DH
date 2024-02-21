@@ -57,7 +57,7 @@
   with_items:
     - screenly.plymouth
     - screenly.script
-    - splashscreen.png
+    - splashscreen.png #TODO: Change this to MSU Denver ASCII art
   when: ansible_distribution_major_version|int > 7
 
 - name: Set splashscreen

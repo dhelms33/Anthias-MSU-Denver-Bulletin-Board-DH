@@ -35,6 +35,10 @@ Follow the prompts during the installation, and reboot as instructed.
 
 **Note**: This installation may take 15 minutes to several hours, depending on hardware specifications and internet speed.
 
+**Note**: If you are using WIFI to connect to the internet, you will need to connect to the internet via Ethernet to complete the installation.
+
+TODO: Correct the above **Note** for installing on Raspberry Pi OS Lite once completed.
+
 ## Installing with Balena
 
 Follow the steps in [this documentation](/docs/balena-fleet-deployment.md) to deploy the MSU-Denver Bulletin Board on your Balena fleet with our modifications.
