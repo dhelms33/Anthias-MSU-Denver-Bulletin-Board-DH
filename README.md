@@ -24,6 +24,12 @@ The quickest way to get started is to use [Raspberry Pi Imager](https://www.scre
 
 Please be aware that our fork is a work in progress, and some bugs may still exist. Track the known issues [here](https://github.com/MSU-Denver-Bulletin-Board/Anthias-MSU-Denver-Bulletin-Board). Engage in discussions and seek support in the [Anthias forums](https://forums.screenly.io).
 
+### Important note for installing on a VM
+
+We were not able to successfully run Anthias on a VM. We attempted to try this on Windows 10 and Windows 11 using VMbox on a Debian OS. We were able to install the Anthias software, but we were not able to access the web interface. 
+
+We were also not able to access the web interface on the Raspberry Pi OS Lite. We would recommend using the Raspberry Pi OS with the desktop environment for the best results and using ethernet to connect the Raspberry Pi to the network.
+
 ### Installing on Raspberry Pi OS Lite
 
 To install on [Raspberry Pi OS](https://www.raspberrypi.com/software/) Bullseye Lite, run the following command:

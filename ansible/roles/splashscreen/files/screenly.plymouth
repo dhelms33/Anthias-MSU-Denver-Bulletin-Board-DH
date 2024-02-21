@@ -1,6 +1,6 @@
 [Plymouth Theme]
 Name=Screenly
-Description=Screenly Splash Screen
+Description=Screenly Splash Screen # we might want to change this
 ModuleName=script
 
 [script]

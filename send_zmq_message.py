@@ -10,7 +10,7 @@ from time import sleep
 
 
 def get_portal_url():
-    gateway = getenv('PORTAL_GATEWAY', '192.168.42.1')
+    gateway = getenv('PORTAL_GATEWAY', '192.168.42.1') #potentiall could redefine this to be our IP
     port = getenv('PORTAL_LISTENING_PORT', None)
 
     if port is None:
