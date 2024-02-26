@@ -99,7 +99,7 @@ asset_z = {
     'is_processing': 0,
     'skip_asset_check': 0
 }
-url_fail = 'http://doesnotwork.example.com'
+url_fail = 'http://doesnotwork.example.com' #TODO: link a better URL
 url_redir = 'http://example.com'
 uri_ = '/home/user/file'
 # url_timeout = 'http://...'
