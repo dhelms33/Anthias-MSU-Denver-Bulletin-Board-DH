@@ -2,7 +2,7 @@
 
 ## About Our Anthias Fork
 
-This repository is a modified version of the Anthias digital signage platform for Raspberry Pi. It is created as part of a senior project, where we aim to create a Real-Time Bulletin Board for MSU Denver faculty and other authorized users to post updates by adding real-time messaging features and announcement capabilities. The key features of our fork will include:
+This repository is a modified version of the Anthias digital signage platform for Raspberry Pi. It is created as part of a senior project, where we aim to create a Real-Time Bulletin Board for MSU Denver faculty and other authorized users to post updates by adding our website into the Anthias application which supports instant updates and announcement capabilities. The key features of our fork will include:
 
 - Faculty exclusive access
 - Remote posting capability
